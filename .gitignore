@@ -1,0 +1,8 @@
+# Keep local environments, generated data, and temporary files out of Git.
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/
+outputs/
+.DS_Store

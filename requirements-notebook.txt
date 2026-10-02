@@ -1,0 +1,4 @@
+# Extra dependencies for opening and running the development notebook.
+-r requirements.txt
+jupyterlab>=4,<5
+kagglehub>=0.3,<1
